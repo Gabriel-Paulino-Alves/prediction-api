@@ -2,6 +2,7 @@
 api feita em FLASK para realizar a predição de imagens via requisição POST
 
 foi utilizada a base pré treinada da KAGGLE https://www.kaggle.com/datasets/gpiosenka/sports-classification -> possui 100 classes de sports diferentes
+
 Modelo treinado no Google Colab: https://colab.research.google.com/drive/1u60lg2j21IgR1nh_OHJNomGugKVTS9gE?usp=sharing
 
 Passo a passo de execução:
